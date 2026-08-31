@@ -5,6 +5,7 @@ if {[file exists rtl_work]} {
 vlib rtl_work
 vmap work rtl_work
 
+vlog -vlog01compat -work work +incdir+D:/FPGA_Pro/User/decoder_3_8/src {D:/FPGA_Pro/User/decoder_3_8/src/decoder_3_8.v}
 vlog -vlog01compat -work work +incdir+D:/FPGA_Pro/User/LED_ctrl_1/scr {D:/FPGA_Pro/User/LED_ctrl_1/scr/LED_ctrl_1.v}
 
 vlog -vlog01compat -work work +incdir+D:/FPGA_Pro/User/LED_ctrl_1/scr {D:/FPGA_Pro/User/LED_ctrl_1/scr/LED_ctrl_1_bt.v}

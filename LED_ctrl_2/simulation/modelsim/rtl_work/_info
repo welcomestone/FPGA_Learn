@@ -1,0 +1,79 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/FPGA_Pro/User/LED_ctrl_2/simulation/modelsim
+vLED_ctrl_2
+Z1 !s110 1788171780
+!i10b 1
+!s100 aMfJG08?OB=mn3kGhMZz;3
+IdFV_36EQ=W8?:0Of5:M[C3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1788171637
+8D:/FPGA_Pro/User/LED_ctrl_2/src/LED_ctrl_2.v
+FD:/FPGA_Pro/User/LED_ctrl_2/src/LED_ctrl_2.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1788171780.000000
+!s107 D:/FPGA_Pro/User/LED_ctrl_2/src/LED_ctrl_2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/FPGA_Pro/User/LED_ctrl_2/src|D:/FPGA_Pro/User/LED_ctrl_2/src/LED_ctrl_2.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+D:/FPGA_Pro/User/LED_ctrl_2/src
+Z7 tCvgOpt 0
+n@l@e@d_ctrl_2
+vLED_ctrl_2_tb
+R1
+!i10b 1
+!s100 n5JNU[a1<8ak>m7c<c74P1
+I==:0?g8ad:8k>UKmHe9^D0
+R2
+R0
+w1788171757
+8D:/FPGA_Pro/User/LED_ctrl_2/src/LED_ctrl_2_tb.v
+FD:/FPGA_Pro/User/LED_ctrl_2/src/LED_ctrl_2_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/FPGA_Pro/User/LED_ctrl_2/src/LED_ctrl_2_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/FPGA_Pro/User/LED_ctrl_2/src|D:/FPGA_Pro/User/LED_ctrl_2/src/LED_ctrl_2_tb.v|
+!i113 1
+R5
+R6
+R7
+n@l@e@d_ctrl_2_tb
+vLED_twincle
+R1
+!i10b 1
+!s100 [aLN8S;gbD=>6[X@hQM4L1
+I=lPcPP:mMah4Ha8Uh@ThQ0
+R2
+R0
+w1788170835
+8D:/FPGA_Pro/User/LED_ctrl_2/src/LED_twincle.v
+FD:/FPGA_Pro/User/LED_ctrl_2/src/LED_twincle.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/FPGA_Pro/User/LED_ctrl_2/src/LED_twincle.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/FPGA_Pro/User/LED_ctrl_2/src|D:/FPGA_Pro/User/LED_ctrl_2/src/LED_twincle.v|
+!i113 1
+R5
+R6
+R7
+n@l@e@d_twincle

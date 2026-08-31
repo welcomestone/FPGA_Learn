@@ -1,12 +1,12 @@
-Analysis & Synthesis Status : Successful - Sat Aug 29 15:44:31 2026
+Analysis & Synthesis Status : Successful - Mon Aug 31 16:34:50 2026
 Quartus Prime Version : 18.0.0 Build 614 04/24/2018 SJ Standard Edition
 Revision Name : LED_ctrl_1
 Top-level Entity Name : LED_ctrl_1
 Family : Cyclone IV E
-Total logic elements : 53
-    Total combinational functions : 47
-    Dedicated logic registers : 33
-Total registers : 33
+Total logic elements : 56
+    Total combinational functions : 56
+    Dedicated logic registers : 28
+Total registers : 28
 Total pins : 10
 Total virtual pins : 0
 Total memory bits : 0

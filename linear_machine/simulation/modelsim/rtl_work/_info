@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/FPGA_Pro/User/linear_machine/simulation/modelsim
+vlinear_machine
+Z1 !s110 1788246629
+!i10b 1
+!s100 oNVa5z[TaF465<dNN:1_j3
+IRz>^8kZ]7HZBbR6FMzQcd3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1788246602
+8D:/FPGA_Pro/User/linear_machine/src/linear_machine.v
+FD:/FPGA_Pro/User/linear_machine/src/linear_machine.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1788246629.000000
+!s107 D:/FPGA_Pro/User/linear_machine/src/linear_machine.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/FPGA_Pro/User/linear_machine/src|D:/FPGA_Pro/User/linear_machine/src/linear_machine.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+D:/FPGA_Pro/User/linear_machine/src
+Z7 tCvgOpt 0
+vlinear_machine_tb
+R1
+!i10b 1
+!s100 NS:83GPzTZ75N8kP@TTXV0
+IBijXa@N95JCbmiG34XRAa0
+R2
+R0
+w1788246604
+8D:/FPGA_Pro/User/linear_machine/src/linear_machine_tb.v
+FD:/FPGA_Pro/User/linear_machine/src/linear_machine_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/FPGA_Pro/User/linear_machine/src/linear_machine_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/FPGA_Pro/User/linear_machine/src|D:/FPGA_Pro/User/linear_machine/src/linear_machine_tb.v|
+!i113 1
+R5
+R6
+R7

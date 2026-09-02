@@ -1,0 +1,51 @@
+# Reading D:/intelFPGA/18.0/modelsim_ase/tcl/vsim/pref.tcl
+# do UART_Driver_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying D:/intelFPGA/18.0/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+D:/FPGA_Pro/User/UART/src {D:/FPGA_Pro/User/UART/src/UART_tx.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:16:52 on Sep 02,2026
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/FPGA_Pro/User/UART/src" D:/FPGA_Pro/User/UART/src/UART_tx.v 
+# -- Compiling module UART_tx
+# 
+# Top level modules:
+# 	UART_tx
+# End time: 17:16:52 on Sep 02,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+D:/FPGA_Pro/User/UART/src {D:/FPGA_Pro/User/UART/src/UART_tx_tb.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:16:52 on Sep 02,2026
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/FPGA_Pro/User/UART/src" D:/FPGA_Pro/User/UART/src/UART_tx_tb.v 
+# -- Compiling module UART_tx_tb
+# 
+# Top level modules:
+# 	UART_tx_tb
+# End time: 17:16:52 on Sep 02,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  UART_tx_tb
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" UART_tx_tb 
+# Start time: 17:16:52 on Sep 02,2026
+# Loading work.UART_tx_tb
+# Loading work.UART_tx
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# ** Note: $stop    : D:/FPGA_Pro/User/UART/src/UART_tx_tb.v(41)
+#    Time: 600221 ns  Iteration: 0  Instance: /UART_tx_tb
+# Break in Module UART_tx_tb at D:/FPGA_Pro/User/UART/src/UART_tx_tb.v line 41
+# End time: 17:39:21 on Sep 02,2026, Elapsed time: 0:22:29
+# Errors: 0, Warnings: 0

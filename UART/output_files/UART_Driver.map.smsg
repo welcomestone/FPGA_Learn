@@ -1,0 +1,1 @@
+Info (10281): Verilog HDL Declaration information at UART_tx_tb.v(9): object "uart_tx" differs only in case from object "UART_tx" in the same scope File: D:/FPGA_Pro/User/UART/src/UART_tx_tb.v Line: 9
